@@ -21,7 +21,7 @@ body {
   .main__picture { text-align: center;
 }
 }
-.centered__main__page__element {
+.main__container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
