@@ -38,12 +38,12 @@ body {
   flex-grow: 1;
 }
 
-.task__row__wrapper {
+.task__row-wrapper {
   display: flex;
 }
 
-#todo__list,
-#completed__list {
+#todo-block__list,
+#completed-block__list {
   margin: 0;
   padding: 0px;
 }
