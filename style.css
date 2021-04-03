@@ -42,20 +42,25 @@ body {
   display: flex;
 }
 
-#todo__list, #completed__list {
+#todo__list,
+#completed__list {
   margin: 0;
   padding: 0px;
 }
 
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
 
-input, button {
+input,
+button {
   outline: none;
 }
 
-.btn__add, .btn__delete, .btn__edit {
+.btn__add,
+.btn__delete,
+.btn__edit {
   background: none;
   border: 0px;
   color: #888;
